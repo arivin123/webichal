@@ -1,0 +1,43 @@
+body {
+    font-family: time new romans, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+
+header {
+    background: #red;
+    color: blue;
+    padding: 20px 0;
+    text-align: center;
+    text-color: oranges;
+}
+
+header h1, header h2 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: #ffffff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
